@@ -1,1 +1,19 @@
-{}
+{
+    "some-saml-test": {
+        "projectName": "some-saml-test",
+        "description": "abc",
+        "type": "community",
+        "author": "simar0at",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/simar0at/agama-lab-test",
+        "githubUri": "https://github.com/simar0at/agama-lab-test",
+        "license": "apache-2.0",
+        "lastUpdated": "1721053810648",
+        "tags": [
+            "authentication",
+            "jans"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
